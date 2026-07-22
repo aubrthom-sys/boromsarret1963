@@ -12,6 +12,19 @@
   "label": "Borom Sarret ",
   "created_at": "2026-07-22T00:48:25.418Z",
   "created_by": "aubrthom-sys",
-  "updated_at": "2026-07-22T00:48:25.418Z",
-  "updated_by": "aubrthom-sys"
+  "updated_at": "2026-07-22T00:50:40.104Z",
+  "updated_by": "aubrthom-sys",
+  "av_file_order": [
+    "7e234adb-2a61-4417-a53f-3893391403cf"
+  ],
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nMy AVAnnotate project focused on Ousmane Sembène's Borom Sarret (1963), which is widely considered the first film made by a Black African filmmaker in independent Senegal. Rather than using annotations to simply describe the scenes, I created analytical annotations that connected specific moments in the film to scholarly frameworks, including Marxism, social reproduction theory, postcolonial theory, and queer theory. My goal was to examine how Sembène critiques labor, colonialism, and everyday life in post-independence Senegal. By making time-stamped connections between the film and academic scholarship, the project demonstrates how audiovisual annotation can function as a form of close reading, allowing viewers to see how cinematic techniques and narrative choices produce broader political and theoretical arguments. "
+        }
+      ]
+    }
+  ]
 }
