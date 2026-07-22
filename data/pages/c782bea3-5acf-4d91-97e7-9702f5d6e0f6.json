@@ -1,0 +1,151 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nFanon, Frantz."
+        },
+        {
+          "text": " The Wretched of the Earth",
+          "italic": true
+        },
+        {
+          "text": " (1963). Translated by Constance Farrington. New York: Grove Press. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "        "
+        },
+        {
+          "type": "link",
+          "url": "https://monoskop.org/images/6/6b/Fanon_Frantz_The_Wretched_of_the_Earth_1963.pdf",
+          "children": [
+            {
+              "text": "https://monoskop.org/images/6/6b/Fanon_Frantz_The_Wretched_of_the_Earth_1963.pdf"
+            }
+          ]
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Halberstam, J. Jack. "
+        },
+        {
+          "text": "The Queer Art of Failure ",
+          "italic": true
+        },
+        {
+          "text": "(2011). "
+        },
+        {
+          "type": "link",
+          "url": "https://sisu.ut.ee/wp-content/uploads/sites/172/ruffel_halberstam-the-queer-art-of-failure.pdf",
+          "children": [
+            {
+              "text": "https://sisu.ut.ee/wp-content/uploads/sites/172/ruffel_halberstam-the-queer-art-of-failure.pdf"
+            }
+          ]
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Marx, Karl. "
+        },
+        {
+          "text": "Economic and Philosophic Manuscripts of 1844 ",
+          "italic": true
+        },
+        {
+          "text": "(1844). \"Estranged Labour.\" Marxists Internet Archive. \n        "
+        },
+        {
+          "type": "link",
+          "url": "https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm",
+          "children": [
+            {
+              "text": "https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm"
+            }
+          ]
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "----. "
+        },
+        {
+          "text": "Capital: A Critique of Political Economy, Volume I ",
+          "italic": true
+        },
+        {
+          "text": "(1867). Translated by Samuel Moore and Edward Aveling. Chapter 6, “The Sale and Purchase of Labour-\n        Power.” Marxists Internet Archive. "
+        },
+        {
+          "type": "link",
+          "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm",
+          "children": [
+            {
+              "text": "https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm"
+            }
+          ]
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Munro, Kirstin. “Social Reproduction Theory,” Social Reproduction, and Household Production. Science & Society 83, no. 4 (2019): 4510–468. \n        "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1521/siso.2019.83.4.45",
+          "children": [
+            {
+              "text": "https://doi.org/10.1521/siso.2019.83.4.45"
+            }
+          ]
+        },
+        {
+          "text": ". "
+        }
+      ]
+    }
+  ],
+  "title": "Works Cited",
+  "parent": "d28d6bd8-9d29-4174-8e52-c1af53aaecd3",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "works-cited",
+  "created_at": "2026-07-22T01:03:39.908Z",
+  "created_by": "aubrthom-sys",
+  "updated_at": "2026-07-22T01:03:39.908Z",
+  "updated_by": "aubrthom-sys"
+}
